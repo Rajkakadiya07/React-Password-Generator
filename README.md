@@ -2,4 +2,4 @@
 
 ## Project Preview
 
-![Password Generator Preview](image/password-generator.png)
+![Password Generator Preview](image/Password-Generator.png)
