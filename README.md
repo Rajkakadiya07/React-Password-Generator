@@ -1,5 +1,3 @@
-# React + Vite
-
 ## Project Preview
 
-![react-password-generator](image/Password-Generator.png)
+![React-Password-Generator](image/password-generator.png)
