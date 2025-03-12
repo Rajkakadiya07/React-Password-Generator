@@ -1,3 +1,3 @@
 ## Project Preview
 
-![React-Password-Generator](image/password-generator.png)
+![React-Password-Generator](image/image.PNG)
